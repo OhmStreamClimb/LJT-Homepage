@@ -34,7 +34,7 @@ Research Experience
 
 Publications
 ======
-You can also find my publications on the [Publications](/publications/) page and on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+You can also find my publications on the [Publications]({{ site.baseurl }}/publications/) page and on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 **Preprints**
 
